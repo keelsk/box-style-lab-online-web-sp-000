@@ -35,10 +35,12 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  box-shadow: 10px 10px 5px grey;
 }
 
 .dubious {
   background-color: #dd4444;
+  box-shadow: 10px 10px 5px grey;
 }
 
 .column {
